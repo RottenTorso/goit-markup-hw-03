@@ -177,7 +177,7 @@ img {
 
 .features-list {
     display: flex;
-    gap: 40px;
+    gap: 24px;
 }
 
 .features-item {
