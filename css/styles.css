@@ -23,6 +23,12 @@ img {
     display: block;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
 /* header */
 
 .header {
@@ -119,7 +125,6 @@ img {
 .hero {
     background-color: #2e2f42;
     padding: 188px 0;
-    margin-bottom: 48px;
 }
 
 .hero-title {
@@ -131,6 +136,7 @@ img {
     text-align: center;
     color: #ffffff;
     margin: 0 auto;
+    margin-bottom: 48px; 
     max-width: 496px;
 }
 
@@ -162,7 +168,7 @@ img {
     padding: 120px 0;
 }
 
-.section-title {
+.features .section-title {
     position: absolute;
     width: 1px;
     height: 1px;
